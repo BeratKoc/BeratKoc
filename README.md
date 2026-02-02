@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmet Berat Koc</h1>
-<h3 align="center">A passionate FullStack Developer From Turkey</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java**
-
-- 📫 How to reach me **ahmetberatkoc0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
