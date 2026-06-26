@@ -22,7 +22,7 @@
 - 🧠 Day to day I work with **Claude, OpenAI, Groq, Gemini & Mistral**, wiring them into real products with **RAG, LangChain & pgvector**.
 - 👁️ I also ship **computer vision** systems — real-time object detection and face recognition with **YOLOv8 / PyTorch / OpenCV**.
 - ⚙️ Backend-heavy fullstack: **FastAPI · Go/Gin · Spring Boot · Node.js** behind **Next.js / React** frontends.
-- 📫 Reach me at **abk301@hotmail.com**
+- 📫 Reach me at **ahmetberatkoc0@gmail.com**
 
 ---
 
